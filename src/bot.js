@@ -1,8 +1,7 @@
 import { Client } from 'recastai'
-
+import TelegramBot from 'node-telegram-bot-api'
 import config from './../config.js'
 
-const TelegramBot = require('node-telegram-bot-api')
 const client = new Client(config.recast.token, config.recast.language)
 const bot = new TelegramBot(config.telegram.token, { polling: true })
 
