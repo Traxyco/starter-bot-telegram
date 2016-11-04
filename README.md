@@ -5,7 +5,8 @@
 
 ## Requirements
 * Create an account on [Recast.AI](https://recast.ai/signup)
-* Create an account on download Telegram on your phone
+* Download Telegram on your phone
+* Configure your account on your phone
 * Advise you to download [Telegram](https://desktop.telegram.org/) for a better dev exprience
 
 ## Set up your Recast.AI account
