@@ -32,6 +32,9 @@
 * Copy the token BotFather give you
 
 ## Start your bot in local
+```bash
+git clone https://github.com/RecastAI/bot-telegram.git
+```
 
 ##### Complete the config.js
 
