@@ -23,7 +23,7 @@
 
 ## Set up your Telegram account
 
-##### Set the Telegram-bo
+##### Set the Telegram-bot
 
 * Log in to your Telegram application on your (phone/desktop)
 * Start a conversation with BotFather and say /newbot
