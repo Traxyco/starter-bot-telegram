@@ -1,6 +1,6 @@
 # [DEPRECATED]
 
-This starter kit is deprecated. If you want to connect your bot to Telegram, please go on [Recast.AI website](https://recast.ai), go on your bot, and connect it to Twilio through `Run` tab > `Bot Connector`.
+This starter kit is deprecated. If you want to connect your bot to Telegram, please go on [Recast.AI website](https://recast.ai), go on your bot, and connect it to Telegram through `Run` tab > `Bot Connector`.
 
 We recommend you to use our new Starter-kit to code your bot. You can choose one of those:
 
