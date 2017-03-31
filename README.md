@@ -1,3 +1,14 @@
+# [DEPRECATED]
+
+This starter kit is deprecated. If you want to connect your bot to Telegram, please go on [Recast.AI website](https://recast.ai), go on your bot, and connect it to Twilio through `Run` tab > `Bot Connector`.
+
+We recommend you to use our new Starter-kit to code your bot. You can choose one of those:
+
+* [StarterKit NodeJS](https://github.com/RecastAI/starter-NodeJS)
+* [StarterKit Python](https://github.com/RecastAI/starter-python)
+* [StarterKit Ruby](https://github.com/RecastAI/starter-ruby)
+* [StarterKit PHP](https://github.com/RecastAI/starter-PHP)
+
 # Tutorial integration Telegram to Recast.AI bot
 
 * This is a small Tutorial to show you how to integrate Telegram to a Recast.AI bot
@@ -113,4 +124,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
